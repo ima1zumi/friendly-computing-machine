@@ -15,6 +15,9 @@
   ],
   "author": "ima1zumi (https://github.com/ima1zumi)",
   "license": "MIT",
+  "bin": {
+    "participation_award": "./main.js"
+  },
   "bugs": {
     "url": "https://github.com/ima1zumi/participation_award/issues"
   },
