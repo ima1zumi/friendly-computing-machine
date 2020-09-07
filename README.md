@@ -1,4 +1,4 @@
-# participation-award
+# participation_award
 Shows the number of times you participated in the event on connpass.
 
 ## install
