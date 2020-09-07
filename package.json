@@ -1,0 +1,26 @@
+{
+  "name": "participation_award",
+  "version": "1.0.0",
+  "description": "Shows the number of times you participated in the event on connpass.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ima1zumi/participation_award.git"
+  },
+  "keywords": [
+    "connpass"
+  ],
+  "author": "ima1zumi (https://github.com/ima1zumi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ima1zumi/participation_award/issues"
+  },
+  "homepage": "https://github.com/ima1zumi/participation_award#readme",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1"
+  }
+}
