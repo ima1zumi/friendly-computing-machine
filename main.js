@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fetch = require('node-fetch')
 const argv = require('minimist')(process.argv.slice(2))
 

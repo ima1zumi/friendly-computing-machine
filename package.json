@@ -1,6 +1,6 @@
 {
   "name": "participation_award",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shows the number of times you participated in the event on connpass.",
   "main": "main.js",
   "scripts": {
@@ -15,6 +15,9 @@
   ],
   "author": "ima1zumi (https://github.com/ima1zumi)",
   "license": "MIT",
+  "bin": {
+    "participation_award": "./main.js"
+  },
   "bugs": {
     "url": "https://github.com/ima1zumi/participation_award/issues"
   },
