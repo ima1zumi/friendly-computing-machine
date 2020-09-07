@@ -14,7 +14,7 @@ ima1zumiさんのイベント参加合計回数は34回です。
 ```
 
 ``` sh
-$ participation_award -y 2020 -m 09
+$ ./node_modules/participation_award -y 2020 -m 09
 connpassのユーザーネームを入力してください。
 ima1zumi # <Ctrl-D>
 ima1zumiさんは2020年9月のイベントに3回参加予定です。
