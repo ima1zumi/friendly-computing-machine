@@ -1,6 +1,6 @@
 {
   "name": "participation_award",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shows the number of times you participated in the event on connpass.",
   "main": "main.js",
   "scripts": {
