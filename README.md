@@ -7,14 +7,14 @@ $ npm install participation_award
 ```
 ## Usage
 ``` sh
-$ ./node_modules/participation_award
+$ ./node_modules/.bin/participation_award
 connpassのユーザーネームを入力してください。
 ima1zumi # <Ctrl-D>
 ima1zumiさんのイベント参加合計回数は34回です。
 ```
 
 ``` sh
-$ ./node_modules/participation_award -y 2020 -m 09
+$ ./node_modules/.bin/participation_award -y 2020 -m 09
 connpassのユーザーネームを入力してください。
 ima1zumi # <Ctrl-D>
 ima1zumiさんは2020年9月のイベントに3回参加予定です。
